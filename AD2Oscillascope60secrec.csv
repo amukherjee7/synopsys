@@ -1,12 +1,3 @@
-#Digilent WaveForms Oscilloscope Acquisition
-#Device Name: Discovery2
-#Serial Number: SN:210321B5DA9C
-#Date Time: 2025-03-02 14:43:30.767
-#Sample rate: 1.2987e+06Hz
-#Samples: 8192
-#Trigger: Source: Channel 1 Type: Edge Condition: Rising Level: 0 V Hyst.: Auto HoldOff: 0 s
-#Channel 1: Range: 50 mV/div Offset: 20 mV Sample Mode: Average
-
 Time (s),Channel 1 (V)
 -0.004417969268668206,-5.803957539713203e-05
 -0.004417199268668206,-5.803957539834905e-05
