@@ -1,0 +1,14 @@
+{
+    "Classification Metrics": {
+        "Accuracy": 0.9642857142857143,
+        "Precision": 0.9375,
+        "Recall": 1.0,
+        "F1 Score": 0.967741935483871,
+        "ROC AUC": 0.8256410256410256
+    },
+    "Regression Metrics": {
+        "R\u00b2 Score": 0.9959802035610902,
+        "RMSE": 33.132308689236275,
+        "MAE": 27.258250862223935
+    }
+}
